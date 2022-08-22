@@ -14,4 +14,6 @@ title: "Lei"
 - Lei, decreto, norma, resolução e portaria são **Atos Administrativos**.
 - Atos Administrativos são publicados no **Diário Oficial da União** (**DOU**)
 
+[[🪴 Quartz 3.2]]
+
 #explicação 
