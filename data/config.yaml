@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Lauro Oliveira
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,16 +11,17 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/LauroAJO/Knowlege_Bits-Thymos_Energia/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+ Pedaços de conhecimento e informações de interesse sobre Setor Energético
 page_title:
-  "🪴 Quartz 3.2"
+  "Knowlege Bits - Thymos Energia"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: LinkedIn  - Lauro Oliveira
+    link: https://www.linkedin.com/in/lauroajo/
+  - link_name: CCEE
+    link: https://www.ccee.org.br/
+  - link_name: ANEEL
+    link: https://www.aneel.gov.br/
