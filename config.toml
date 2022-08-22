@@ -1,6 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://lauroajo.github.io/Knowlege_Bits-Thymos_Energia/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
