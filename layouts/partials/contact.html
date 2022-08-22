@@ -8,6 +8,9 @@
             {{end}}
             {{- range $.Site.Data.config.links -}}
             <li><a href="{{.link}}">{{.link_name}}</a></li>
+            {{end}}
+            {{- range $.Site.Data.config.links -}}
+            <li><a href="{{.link}}">{{.link_name}}</a></li>
             {{- end -}}
         </ul>
     </footer>
